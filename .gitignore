@@ -1,0 +1,6 @@
+vendor/
+_site/
+.bundle/
+.sass-cache/
+__pycache__
+.ipynb_checkpoints/*
