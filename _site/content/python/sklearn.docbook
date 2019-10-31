@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?asciidoc-toc?>
+<?asciidoc-numbered?>
+<article xmlns="http://docbook.org/ns/docbook" xmlns:xl="http://www.w3.org/1999/xlink" version="5.0" xml:lang="en">
+<info>
+<title>Scikit-Learn</title>
+<date>## История</date>
+<author>
+<personname>
+<firstname>## Что это</firstname>
+</personname>
+</author>
+<authorinitials>#</authorinitials>
+</info>
+<section xml:id="_график_коммитов">
+<title>График коммитов</title>
+
+</section>
+<section xml:id="_график_вопросов_на_со">
+<title>График вопросов на СО?</title>
+
+</section>
+<section xml:id="_график_гугл_трендс">
+<title>График гугл трендс?</title>
+
+</section>
+<section xml:id="_roadmap">
+<title>Roadmap</title>
+
+</section>
+<section xml:id="_архитектура">
+<title>Архитектура</title>
+
+</section>
+<section xml:id="_scikit_learn_api">
+<title>Scikit-Learn API</title>
+<simpara>BaseEstimator, TransformerMixin</simpara>
+</section>
+</article>
